@@ -1,4 +1,5 @@
 #CryptoToken Smart Contract
+
 CryptoToken is a Solidity smart contract that allows you to create your own ERC20 token on the Ethereum blockchain. This contract provides functionalities for minting new tokens, transferring tokens, burning tokens, approving allowances for other addresses, and transferring tokens on behalf of approved addresses.
 
 ##Features
@@ -17,6 +18,7 @@ Token Transfers from Approved Addresses: Approved addresses can transfer tokens 
 Pause Function: The contract owner can pause and unpause token transfers.
 
 ##Deployment
+
 Deploy the CryptoToken contract on the Ethereum network using Remix or HardHat.
 
 After deployment, the contract owner will have the ability to mint tokens, transfer ownership, and pause/unpause token transfers.
